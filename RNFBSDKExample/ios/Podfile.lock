@@ -2,8 +2,8 @@ PODS:
   - boost (1.83.0)
   - CocoaAsyncSocket (7.6.5)
   - DoubleConversion (1.1.6)
-  - FBAEMKit (17.0.0):
-    - FBSDKCoreKit_Basics (= 17.0.0)
+  - FBAEMKit (17.2.0):
+    - FBSDKCoreKit_Basics (= 17.2.0)
   - FBLazyVector (0.73.6)
   - FBReactNativeSpec (0.73.6):
     - RCT-Folly (= 2022.05.16.00)
@@ -12,18 +12,18 @@ PODS:
     - React-Core (= 0.73.6)
     - React-jsi (= 0.73.6)
     - ReactCommon/turbomodule/core (= 0.73.6)
-  - FBSDKCoreKit (17.0.0):
-    - FBAEMKit (= 17.0.0)
-    - FBSDKCoreKit_Basics (= 17.0.0)
-  - FBSDKCoreKit_Basics (17.0.0)
-  - FBSDKGamingServicesKit (17.0.0):
-    - FBSDKCoreKit (= 17.0.0)
-    - FBSDKCoreKit_Basics (= 17.0.0)
-    - FBSDKShareKit (= 17.0.0)
-  - FBSDKLoginKit (17.0.0):
-    - FBSDKCoreKit (= 17.0.0)
-  - FBSDKShareKit (17.0.0):
-    - FBSDKCoreKit (= 17.0.0)
+  - FBSDKCoreKit (17.2.0):
+    - FBAEMKit (= 17.2.0)
+    - FBSDKCoreKit_Basics (= 17.2.0)
+  - FBSDKCoreKit_Basics (17.2.0)
+  - FBSDKGamingServicesKit (17.2.0):
+    - FBSDKCoreKit (= 17.2.0)
+    - FBSDKCoreKit_Basics (= 17.2.0)
+    - FBSDKShareKit (= 17.2.0)
+  - FBSDKLoginKit (17.2.0):
+    - FBSDKCoreKit (= 17.2.0)
+  - FBSDKShareKit (17.2.0):
+    - FBSDKCoreKit (= 17.2.0)
   - Flipper (0.201.0):
     - Flipper-Folly (~> 2.6)
   - Flipper-Boost-iOSX (1.76.0.1.11)
@@ -964,14 +964,14 @@ PODS:
     - react-native-fbsdk-next/Login (= 13.0.0)
     - react-native-fbsdk-next/Share (= 13.0.0)
   - react-native-fbsdk-next/Core (13.0.0):
-    - FBSDKCoreKit (~> 17.0.0)
+    - FBSDKCoreKit (~> 17.2.0)
     - React-Core
   - react-native-fbsdk-next/Login (13.0.0):
-    - FBSDKLoginKit (~> 17.0.0)
+    - FBSDKLoginKit (~> 17.2.0)
     - React-Core
   - react-native-fbsdk-next/Share (13.0.0):
-    - FBSDKGamingServicesKit (~> 17.0.0)
-    - FBSDKShareKit (~> 17.0.0)
+    - FBSDKGamingServicesKit (~> 17.2.0)
+    - FBSDKShareKit (~> 17.2.0)
     - React-Core
   - React-nativeconfig (0.73.6)
   - React-NativeModulesApple (0.73.6):
